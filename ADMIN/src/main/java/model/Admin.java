@@ -7,7 +7,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 public class Admin {
-	
+	//databasae connectin
 	private Connection connect()
 	{
 	Connection con = null;
